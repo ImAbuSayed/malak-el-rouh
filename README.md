@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ملاك الروح قلبي بين يديك
+> في عيونك نور يهديني إليك
+> كل نبضة حب تهمس بالسلام
+> أنت حلمي اللي سهرت له أنام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
