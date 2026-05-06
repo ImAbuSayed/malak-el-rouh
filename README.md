@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/malak-el-rouh/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Malak El Rouh](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Malak El Rouh](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
