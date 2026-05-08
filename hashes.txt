@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Malak El Rouh
+
+This log tracks the cryptographic history and versioning for the song **Malak El Rouh** (malak-el-rouh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:31:12.802856 | `v1` | `9618b6d80dcdb41d569885c096272689bfa4a19800d8957835450c1676694c65` | `3ffd8815aa9314e7653dde0db33eb9edc3fcc6a6581960b9a1bdac581fab22dc` | `2026-05-08_malak-el-rouh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
